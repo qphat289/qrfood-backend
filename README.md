@@ -55,7 +55,7 @@ A Flask backend API with MongoDB integration for managing users and posts.
 
 ## Database Setup
 
-Seed the database with initial data:
+Seed the db with initial data:
 ```bash
 python seed_database.py
 ```
