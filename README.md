@@ -2,6 +2,8 @@
 
 A Flask backend API with MongoDB integration for managing users and posts.
 
+> 🚀 **Updated by Phat** - Enhanced documentation and features
+
 ## Features
 
 - RESTful API endpoints
