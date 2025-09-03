@@ -42,7 +42,7 @@ A Flask backend API with MongoDB integration for managing users and posts.
 
 ## Installation
 
-1. Clone the repository and navigate to the project folder
+1. Clone the repository and navigate to the project folders
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
